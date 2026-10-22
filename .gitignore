@@ -1,0 +1,20 @@
+# Visual Studio and generated build outputs
+.vs/
+[Bb]in/
+[Oo]bj/
+packages/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.log
+
+# Local configuration and original database exports
+.env
+.env.*
+!.env.example
+file sql/
+*.bak
+*.tmp
+Thumbs.db
+Desktop.ini
